@@ -10,7 +10,7 @@ class MyHome extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
         body: Center(
-          child: Text("Hello"),
+          child: Text("Hello from Home"),
         ),
       ),
     );
